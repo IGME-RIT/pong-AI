@@ -1,4 +1,0 @@
-﻿  main.cpp
-d:\profiles\scb8528\documents\igm ggp\new examples\pong\pong ai\openglpongai\main.cpp(299): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-d:\profiles\scb8528\documents\igm ggp\new examples\pong\pong ai\openglpongai\main.cpp(61): warning C4715: 'MovePlayer': not all control paths return a value
-  OpenGLPongAI.vcxproj -> D:\Profiles\scb8528\Documents\IGM GGP\New Examples\Pong\Pong AI\OpenGLPongAI\Debug\OpenGLPongAI.exe
